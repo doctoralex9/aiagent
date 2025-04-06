@@ -1,6 +1,0 @@
-.env                           # Environment variables
-secrets.json                   # Keys/config files
-venv/                          # Virtual environment
-__pycache__/                   # Python cache
-*.pyc                          # Compiled Python files
-.DS_Store                      # macOS metadata
